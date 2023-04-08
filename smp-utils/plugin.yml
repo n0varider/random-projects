@@ -1,0 +1,7 @@
+main: me.nova.plugin.Core
+author: _NovaRider_
+name: SMPStuff
+version: 1.0
+commands:
+  color:
+    description: does cool stuff
